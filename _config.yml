@@ -20,11 +20,11 @@ author: Ximo
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "Sobre mi.."
+  Menú:
+    - Webgae: "https://webgae.com"
+    - Escribir markdown: "https://www.markdowntutorial.com/"
+  WEB: "https://deanattali.com"
 
 ################
 # --- Logo --- #
