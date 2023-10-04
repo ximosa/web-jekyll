@@ -20,10 +20,10 @@ author: Ximo
 ###############################################
 
 navbar-links:
-  About Me: "Sobre mi.."
+  Sobre mi..: "Sobre mi.."
   Menú:
     - Webgae: "https://webgae.com"
-    - Escribir markdown: "https://www.markdowntutorial.com/"
+    - Markdown: "https://www.markdowntutorial.com/"
   WEB: "https://webgae.com"
 
 ################
