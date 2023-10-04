@@ -20,7 +20,7 @@ author: Ximo
 ###############################################
 
 navbar-links:
-  Sobre mi..: "Sobre mi.."
+  Sobre mi..: "aboutme"
   Menú:
     - Webgae: "https://webgae.com"
     - Markdown: "https://www.markdowntutorial.com/"
